@@ -21,7 +21,7 @@
 | Languages      | Python, C, C++                             |
 | ML / DS        | NumPy, Flask, Jupyter, PyTorch             |
 | Databases      | MySQL, SQLite                              |
-| Basics         | HTML, CSS                                  |
+| Basics         | HTML, CSS, HDL                                 |
 | Version Control| Git, GitHub                                |
 
 ---
