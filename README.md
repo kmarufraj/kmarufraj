@@ -39,7 +39,7 @@
 
 ## 🌱 Latest Goals
 
-- ✅ Finish C++ OOP  
+- ✅ Finish OOPS using C++ 
 - ✅ Build small ML projects (Regression, Clustering, etc.)  
 - 🔄 Start contributing to open-source  
 - 🔜 Participate in Kaggle competitions  
